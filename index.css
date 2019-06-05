@@ -1,0 +1,7 @@
+.desaparecer{
+  display: none;
+}
+
+#section-aparecer{
+  display: block;
+}
